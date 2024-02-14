@@ -1,0 +1,3 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "example_pipeline_copy"}, "timestamp": 1707809646, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "genuine_crafter"}, "timestamp": 1707816992, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "luminous_snowflake"}, "timestamp": 1707834167, "user": null}
